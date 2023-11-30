@@ -1,5 +1,5 @@
-# BuckConvertor
-Buck convertor 12V to 5V 3A
+# NoahBEC
+Buck convertor 12V to 5V 3A for servos.
 
 ## Scheme
 ![](images/scheme.png)

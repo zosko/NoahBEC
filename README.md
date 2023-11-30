@@ -8,4 +8,4 @@ Buck convertor 12V to 5V 3A
 ![](images/board.png)
 
 ## Preview
-![](images/preview.png)
+![](images/pcb.png)

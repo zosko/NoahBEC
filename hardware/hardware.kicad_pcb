@@ -398,6 +398,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KIPRJMOD}/lib/L_12x12mm_H8mm.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 0.6 0.6 0.3))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
